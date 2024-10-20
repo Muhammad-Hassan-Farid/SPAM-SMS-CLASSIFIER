@@ -1,5 +1,5 @@
 # SMS Spam Classifier
-
+ 
 This project implements a machine learning model to classify SMS messages as spam or not spam. The model is trained using a labeled dataset of SMS messages and can predict whether a new message is spam or legitimate based on the text.
 
 ## Project Structure
